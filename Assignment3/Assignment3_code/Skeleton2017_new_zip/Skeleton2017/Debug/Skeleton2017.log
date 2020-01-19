@@ -1,0 +1,33 @@
+﻿  sample.cpp
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment3\assignment3_code\skeleton2017_new_zip\skeleton2017\sample.cpp(274): warning C4091: 'typedef ': ignored on left of 'node' when no variable is declared
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment3\assignment3_code\skeleton2017_new_zip\skeleton2017\sample.cpp(278): warning C4091: 'typedef ': ignored on left of 'lineseg' when no variable is declared
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment3\assignment3_code\skeleton2017_new_zip\skeleton2017\sample.cpp(282): warning C4091: 'typedef ': ignored on left of 'intersect_points' when no variable is declared
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment3\assignment3_code\skeleton2017_new_zip\skeleton2017\sample.cpp(286): warning C4091: 'typedef ': ignored on left of 'intersects' when no variable is declared
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment3\assignment3_code\skeleton2017_new_zip\skeleton2017\sample.cpp(291): warning C4091: 'typedef ': ignored on left of 'quad' when no variable is declared
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment3\assignment3_code\skeleton2017_new_zip\skeleton2017\sample.cpp(333): warning C4018: '<': signed/unsigned mismatch
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment3\assignment3_code\skeleton2017_new_zip\skeleton2017\sample.cpp(313): warning C4101: 'p': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment3\assignment3_code\skeleton2017_new_zip\skeleton2017\sample.cpp(1589): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment3\assignment3_code\skeleton2017_new_zip\skeleton2017\sample.cpp(1590): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment3\assignment3_code\skeleton2017_new_zip\skeleton2017\sample.cpp(1623): warning C4305: '=': truncation from 'double' to 'GLfloat'
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment3\assignment3_code\skeleton2017_new_zip\skeleton2017\sample.cpp(1799): warning C4101: 'p': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment3\assignment3_code\skeleton2017_new_zip\skeleton2017\sample.cpp(1845): warning C4805: '==': unsafe mix of type 'bool' and type 'float' in operation
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment3\assignment3_code\skeleton2017_new_zip\skeleton2017\sample.cpp(1862): warning C4804: '<': unsafe use of type 'bool' in operation
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment3\assignment3_code\skeleton2017_new_zip\skeleton2017\sample.cpp(1822): warning C4101: 'l': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment3\assignment3_code\skeleton2017_new_zip\skeleton2017\sample.cpp(1879): warning C4101: 'inter': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment3\assignment3_code\skeleton2017_new_zip\skeleton2017\sample.cpp(1886): warning C4101: 'i': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment3\assignment3_code\skeleton2017_new_zip\skeleton2017\sample.cpp(1907): warning C4101: 'point': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment3\assignment3_code\skeleton2017_new_zip\skeleton2017\sample.cpp(1931): warning C4101: 'i': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment3\assignment3_code\skeleton2017_new_zip\skeleton2017\sample.cpp(1945): warning C4101: 'i': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment3\assignment3_code\skeleton2017_new_zip\skeleton2017\sample.cpp(1959): warning C4101: 'i': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment3\assignment3_code\skeleton2017_new_zip\skeleton2017\sample.cpp(2031): warning C4018: '<': signed/unsigned mismatch
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment3\assignment3_code\skeleton2017_new_zip\skeleton2017\sample.cpp(2007): warning C4101: 'mat_diffuse': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment3\assignment3_code\skeleton2017_new_zip\skeleton2017\sample.cpp(2073): warning C4101: 'y': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment3\assignment3_code\skeleton2017_new_zip\skeleton2017\sample.cpp(2073): warning C4101: 'x': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment3\assignment3_code\skeleton2017_new_zip\skeleton2017\sample.cpp(2188): warning C4101: 'e': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment3\assignment3_code\skeleton2017_new_zip\skeleton2017\sample.cpp(2188): warning C4101: 's': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment3\assignment3_code\skeleton2017_new_zip\skeleton2017\sample.cpp(2207): warning C4101: 'jitter': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment3\assignment3_code\skeleton2017_new_zip\skeleton2017\sample.cpp(2283): warning C4018: '<': signed/unsigned mismatch
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment3\assignment3_code\skeleton2017_new_zip\skeleton2017\sample.cpp(2224): warning C4101: 'h': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment3\assignment3_code\skeleton2017_new_zip\skeleton2017\sample.cpp(2224): warning C4101: 'w': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment3\assignment3_code\skeleton2017_new_zip\skeleton2017\sample.cpp(2306): warning C4101: 'p': unreferenced local variable
+  Skeleton2017.vcxproj -> C:\Users\Kusuma\OneDrive\Desktop\VisualizationAssignments\Assignment3\Assignment3_code\Skeleton2017_new_zip\Debug\Skeleton2017.exe

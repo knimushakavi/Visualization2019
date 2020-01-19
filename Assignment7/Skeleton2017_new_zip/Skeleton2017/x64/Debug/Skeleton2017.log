@@ -1,0 +1,102 @@
+﻿  Geometry.cpp
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\geometry.cpp(135): warning C4312: 'type cast': conversion from 'int' to 'Vertex *' of greater size
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\geometry.cpp(136): warning C4312: 'type cast': conversion from 'int' to 'Vertex *' of greater size
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\geometry.cpp(137): warning C4312: 'type cast': conversion from 'int' to 'Vertex *' of greater size
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\geometry.cpp(150): warning C4311: 'type cast': pointer truncation from 'Vertex *' to 'int'
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\geometry.cpp(150): warning C4302: 'type cast': truncation from 'Vertex *' to 'int'
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\geometry.cpp(151): warning C4311: 'type cast': pointer truncation from 'Vertex *' to 'int'
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\geometry.cpp(151): warning C4302: 'type cast': truncation from 'Vertex *' to 'int'
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\geometry.cpp(152): warning C4311: 'type cast': pointer truncation from 'Vertex *' to 'int'
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\geometry.cpp(152): warning C4302: 'type cast': truncation from 'Vertex *' to 'int'
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\geometry.cpp(220): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\geometry.cpp(221): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\geometry.cpp(222): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\geometry.cpp(742): warning C4018: '<': signed/unsigned mismatch
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\geometry.cpp(786): warning C4018: '<': signed/unsigned mismatch
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\geometry.cpp(790): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\geometry.cpp(803): warning C4018: '<': signed/unsigned mismatch
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\geometry.cpp(812): warning C4018: '<': signed/unsigned mismatch
+  icVector.cpp
+  ply.cpp
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\ply.cpp(213): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\ply.cpp(207): warning C4101: 'elem': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\ply.cpp(205): warning C4101: 'i': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\ply.cpp(350): warning C4101: 'i': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\ply.cpp(352): warning C4101: 'prop': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\ply.cpp(582): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\ply.cpp(476): warning C4101: 'i': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\ply.cpp(672): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\ply.cpp(746): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\ply.cpp(1321): warning C4101: 'i': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\ply.cpp(1350): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\ply.cpp(1427): warning C4101: 'i': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\ply.cpp(1564): warning C4101: 'i': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\ply.cpp(1716): warning C4101: 'j': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\ply.cpp(1716): warning C4101: 'i': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\ply.cpp(1928): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\ply.cpp(2037): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\ply.cpp(2038): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\ply.cpp(2042): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\ply.cpp(2043): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\ply.cpp(2119): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\ply.cpp(2120): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\ply.cpp(2125): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\ply.cpp(2126): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\ply.cpp(2244): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\ply.cpp(2330): warning C4101: 'count_type': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\ply.cpp(2329): warning C4101: 'prop_type': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\ply.cpp(2778): warning C4101: 'i': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\ply.cpp(2780): warning C4101: 'prop': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\ply.cpp(3063): warning C4101: 'count': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\ply.cpp(3062): warning C4101: 'i': unreferenced local variable
+  sample.cpp
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\sample.cpp(288): warning C4091: 'typedef ': ignored on left of 'lineseg' when no variable is declared
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\sample.cpp(292): warning C4091: 'typedef ': ignored on left of 'intersect_points' when no variable is declared
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\sample.cpp(296): warning C4091: 'typedef ': ignored on left of 'intersects' when no variable is declared
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\sample.cpp(301): warning C4091: 'typedef ': ignored on left of 'quad' when no variable is declared
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\sample.cpp(490): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\sample.cpp(542): warning C4101: 'p': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\sample.cpp(592): warning C4805: '==': unsafe mix of type 'bool' and type 'float' in operation
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\sample.cpp(607): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\sample.cpp(607): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\sample.cpp(610): warning C4804: '<': unsafe use of type 'bool' in operation
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\sample.cpp(637): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\sample.cpp(682): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\sample.cpp(697): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\sample.cpp(712): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\sample.cpp(728): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\sample.cpp(569): warning C4101: 'l': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\sample.cpp(628): warning C4101: 'inter': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\sample.cpp(635): warning C4101: 'i': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\sample.cpp(656): warning C4101: 'point': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\sample.cpp(680): warning C4101: 'i': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\sample.cpp(695): warning C4101: 'i': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\sample.cpp(710): warning C4101: 'i': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\sample.cpp(1385): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\sample.cpp(1388): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\sample.cpp(1391): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\sample.cpp(1428): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\sample.cpp(1497): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\sample.cpp(1660): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\sample.cpp(1774): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\sample.cpp(1775): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\sample.cpp(1776): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\sample.cpp(1791): warning C4101: 'k': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\sample.cpp(1793): warning C4101: 'p': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\sample.cpp(1792): warning C4101: 's': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\sample.cpp(1791): warning C4101: 'j': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\sample.cpp(1791): warning C4101: 'i': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\sample.cpp(2043): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\sample.cpp(2054): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\sample.cpp(3028): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\sample.cpp(3029): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\sample.cpp(3062): warning C4305: '=': truncation from 'double' to 'GLfloat'
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\sample.cpp(3081): warning C4101: 'k': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\sample.cpp(3081): warning C4101: 'p': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\sample.cpp(3082): warning C4101: 's': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\sample.cpp(3081): warning C4101: 'j': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\sample.cpp(3081): warning C4101: 'i': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\sample.cpp(3083): warning C4101: 'mat_diffuse': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment7\skeleton2017_new_zip\skeleton2017\sample.cpp(3112): warning C4101: 'jitter': unreferenced local variable
+  Generating Code...
+LINK : fatal error LNK1104: cannot open file 'C:\Users\Kusuma\OneDrive\Desktop\VisualizationAssignments\Assignment7\Skeleton2017_new_zip\x64\Debug\GLUI.lib'

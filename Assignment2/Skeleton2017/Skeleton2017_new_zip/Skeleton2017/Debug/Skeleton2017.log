@@ -1,0 +1,10 @@
+﻿  sample.cpp
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment2\skeleton2017\skeleton2017_new_zip\skeleton2017\sample.cpp(1527): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment2\skeleton2017\skeleton2017_new_zip\skeleton2017\sample.cpp(1528): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment2\skeleton2017\skeleton2017_new_zip\skeleton2017\sample.cpp(1561): warning C4305: '=': truncation from 'double' to 'GLfloat'
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment2\skeleton2017\skeleton2017_new_zip\skeleton2017\sample.cpp(1718): warning C4018: '<': signed/unsigned mismatch
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment2\skeleton2017\skeleton2017_new_zip\skeleton2017\sample.cpp(1694): warning C4101: 'mat_diffuse': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment2\skeleton2017\skeleton2017_new_zip\skeleton2017\sample.cpp(1777): warning C4101: 'jitter': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment2\skeleton2017\skeleton2017_new_zip\skeleton2017\sample.cpp(1793): warning C4101: 'h': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment2\skeleton2017\skeleton2017_new_zip\skeleton2017\sample.cpp(1793): warning C4101: 'w': unreferenced local variable
+  Skeleton2017.vcxproj -> C:\Users\Kusuma\OneDrive\Desktop\VisualizationAssignments\Assignment2\Skeleton2017\Skeleton2017_new_zip\Debug\Skeleton2017.exe

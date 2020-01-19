@@ -1,0 +1,41 @@
+﻿  sample.cpp
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment6\skeleton2017_new_zip\skeleton2017\sample.cpp(207): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment6\skeleton2017_new_zip\skeleton2017\sample.cpp(385): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment6\skeleton2017_new_zip\skeleton2017\sample.cpp(395): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment6\skeleton2017_new_zip\skeleton2017\sample.cpp(396): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment6\skeleton2017_new_zip\skeleton2017\sample.cpp(630): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment6\skeleton2017_new_zip\skeleton2017\sample.cpp(680): warning C4101: 'sum': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment6\skeleton2017_new_zip\skeleton2017\sample.cpp(680): warning C4101: 'vx': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment6\skeleton2017_new_zip\skeleton2017\sample.cpp(680): warning C4101: 's': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment6\skeleton2017_new_zip\skeleton2017\sample.cpp(680): warning C4101: 'vy': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment6\skeleton2017_new_zip\skeleton2017\sample.cpp(679): warning C4101: 'j': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment6\skeleton2017_new_zip\skeleton2017\sample.cpp(679): warning C4101: 'i': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment6\skeleton2017_new_zip\skeleton2017\sample.cpp(680): warning C4101: 'vz': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment6\skeleton2017_new_zip\skeleton2017\sample.cpp(794): warning C4101: 'scale2': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment6\skeleton2017_new_zip\skeleton2017\sample.cpp(1012): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment6\skeleton2017_new_zip\skeleton2017\sample.cpp(979): warning C4101: 'sum': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment6\skeleton2017_new_zip\skeleton2017\sample.cpp(979): warning C4101: 'max': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment6\skeleton2017_new_zip\skeleton2017\sample.cpp(979): warning C4101: 'vx': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment6\skeleton2017_new_zip\skeleton2017\sample.cpp(979): warning C4101: 'min': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment6\skeleton2017_new_zip\skeleton2017\sample.cpp(979): warning C4101: 's': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment6\skeleton2017_new_zip\skeleton2017\sample.cpp(979): warning C4101: 'vy': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment6\skeleton2017_new_zip\skeleton2017\sample.cpp(978): warning C4101: 'j': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment6\skeleton2017_new_zip\skeleton2017\sample.cpp(978): warning C4101: 'i': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment6\skeleton2017_new_zip\skeleton2017\sample.cpp(979): warning C4101: 'vz': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment6\skeleton2017_new_zip\skeleton2017\sample.cpp(980): warning C4101: 'mat_diffuse': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment6\skeleton2017_new_zip\skeleton2017\sample.cpp(1938): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment6\skeleton2017_new_zip\skeleton2017\sample.cpp(1939): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment6\skeleton2017_new_zip\skeleton2017\sample.cpp(1972): warning C4305: '=': truncation from 'double' to 'GLfloat'
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment6\skeleton2017_new_zip\skeleton2017\sample.cpp(2017): warning C4018: '<': signed/unsigned mismatch
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment6\skeleton2017_new_zip\skeleton2017\sample.cpp(1994): warning C4101: 'mat_diffuse': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment6\skeleton2017_new_zip\skeleton2017\sample.cpp(2088): warning C4101: 'jitter': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment6\skeleton2017_new_zip\skeleton2017\sample.cpp(2104): warning C4101: 'sum': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment6\skeleton2017_new_zip\skeleton2017\sample.cpp(2104): warning C4101: 'vx': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment6\skeleton2017_new_zip\skeleton2017\sample.cpp(2104): warning C4101: 's': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment6\skeleton2017_new_zip\skeleton2017\sample.cpp(2104): warning C4101: 'vy': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment6\skeleton2017_new_zip\skeleton2017\sample.cpp(2102): warning C4101: 'j': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment6\skeleton2017_new_zip\skeleton2017\sample.cpp(2102): warning C4101: 'i': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment6\skeleton2017_new_zip\skeleton2017\sample.cpp(2104): warning C4101: 'vz': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment6\skeleton2017_new_zip\skeleton2017\sample.cpp(2103): warning C4101: 'h': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\visualizationassignments\assignment6\skeleton2017_new_zip\skeleton2017\sample.cpp(2103): warning C4101: 'w': unreferenced local variable
+  Skeleton2017.vcxproj -> C:\Users\Kusuma\OneDrive\Desktop\VisualizationAssignments\Assignment6\Skeleton2017_new_zip\Debug\Skeleton2017.exe
